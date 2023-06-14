@@ -1,8 +1,7 @@
 
 
 import openai
-print('ss')
-print('dd')
+
 openai.api_key = "put your API key here"
 
 def textResponse(messages):
